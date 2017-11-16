@@ -8,3 +8,4 @@ This is the first line in my file.
 +
 + Changing code in compare
 
+Someting Else
