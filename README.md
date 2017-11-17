@@ -10,4 +10,4 @@ This is the first line in my file.
 
 Someting Else
 Why do I do this
-How many licks does it take to get to te center of the uhhh...
+How many licks does it take to get to the center of the uhhhh.
